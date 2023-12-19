@@ -1,0 +1,12 @@
+{
+  "Name": "TcpBoxApp",
+  "Host": "0.0.0.0",
+  "Version": 0.6,
+  "IPVersion": "tcp4",
+  "Port": 8990,
+  "MaxConn": 1000,
+  "MaxPackageSize": 4096,
+  "WorkerPoolSize": 10,
+  "MaxWorkTaskLen": 1024,
+  "mode": "dev"
+}
